@@ -31,5 +31,9 @@ Thumbs.db
 .env
 .env.local
 
-# Security assessment (private)
+# Documentation files (except README)
+PRD.md
+SPECIFICATION.md
 SECURITY_ASSESSMENT.md
+SETUP.md
+DEPLOY.md
