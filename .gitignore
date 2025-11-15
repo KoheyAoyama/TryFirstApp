@@ -30,3 +30,6 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+
+# Security assessment (private)
+SECURITY_ASSESSMENT.md
